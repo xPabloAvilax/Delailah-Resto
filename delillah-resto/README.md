@@ -1,6 +1,6 @@
 # Delillah-Resto
-Proyecto 3 del curso DWFS de ACAMICA 
-API REST para el backend de un servicio de comidas online
+-Proyecto 3 del curso DWFS de ACAMICA 
+-API REST para el backend de un servicio de comidas online
 
 # Dependencias
 
